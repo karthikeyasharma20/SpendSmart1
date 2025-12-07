@@ -1,0 +1,85 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "demo",
+      "email": "demo@spendsmart.com",
+      "password": "demo123"
+    },
+    {
+      "id": "ed2b",
+      "username": "vivek",
+      "email": "viveknarahari21@gmail.com",
+      "password": "vivek123"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "2",
+      "userId": 1,
+      "title": "Salary",
+      "amount": 5000,
+      "type": "income",
+      "date": "2024-11-01",
+      "category": "Salary",
+      "description": "Monthly salary"
+    }
+  ],
+  "budgets": [
+    {
+      "id": "f0b9",
+      "userId": "1",
+      "month": "2025-11",
+      "amount": 4556,
+      "categories": {
+        "Food": 0,
+        "Transport": 0,
+        "Entertainment": 0,
+        "Bills": 0,
+        "Shopping": 0,
+        "Salary": 0,
+        "Freelance": 0,
+        "Investment": 0,
+        "Other": 0
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Food"
+    },
+    {
+      "id": "2",
+      "name": "Transport"
+    },
+    {
+      "id": "3",
+      "name": "Entertainment"
+    },
+    {
+      "id": "4",
+      "name": "Bills"
+    },
+    {
+      "id": "5",
+      "name": "Shopping"
+    },
+    {
+      "id": "6",
+      "name": "Salary"
+    },
+    {
+      "id": "7",
+      "name": "Freelance"
+    },
+    {
+      "id": "8",
+      "name": "Investment"
+    },
+    {
+      "id": "9",
+      "name": "Other"
+    }
+  ]
+}
