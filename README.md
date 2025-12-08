@@ -226,7 +226,7 @@ The `db.json` file contains the following data models:
 
 ## 🤝 Contributing
 
-Feel free to fork this project and submit pull requests for any improvements.
+- K Karthikeya Sharma & N Vivek 
 
 ## 📞 Support
 
