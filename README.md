@@ -2,6 +2,11 @@
 
 A fully functional personal finance management web application built with React.js and JSON-Server. Track your income and expenses, categorize transactions, view monthly summaries, set budgets, and improve your financial habits.
 
+## Project Overview
+
+**Project Demonstration**: https://drive.google.com/file/d/1oJrk14m-52bFq0xS_td7K4VMjc7rFLHD/view?usp=drive_link 
+**Code Demonstration**: https://drive.google.com/file/d/12aCrpLtUA2EAEfJ_Zwy_hLopRse3n6N2/view?usp=drive_link
+
 ## 🚀 Features
 
 - **Authentication**: Simple login/signup system
