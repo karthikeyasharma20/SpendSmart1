@@ -2,6 +2,16 @@
 
 A fully functional personal finance management web application built with React.js and JSON-Server. Track your income and expenses, categorize transactions, view monthly summaries, set budgets, and improve your financial habits.
 
+## 🎥 Project Overview
+
+SpendSmart is a personal expense tracking app that helps users record transactions, manage budgets, and analyze financial habits using charts and real-time data.
+
+**Project Report**: https://drive.google.com/file/d/1vvy7OuKGeaMzx_g1RigzDC34FzSUI1CR/view?usp=drive_link 
+
+**Project Demonstration**: https://drive.google.com/file/d/1oJrk14m-52bFq0xS_td7K4VMjc7rFLHD/view?usp=drive_link 
+
+**Code Demonstration**: https://drive.google.com/file/d/12aCrpLtUA2EAEfJ_Zwy_hLopRse3n6N2/view?usp=drive_link 
+
 ## 🚀 Features
 
 - **Authentication**: Simple login/signup system
